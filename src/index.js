@@ -6,6 +6,6 @@ import "./index.css";
 var destination = document.getElementById("root");
 
 ReactDOM.render(
-    <Main/>,
+    <Main />,
     destination
 );

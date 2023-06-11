@@ -1,12 +1,13 @@
 import React, { Component } from "react";
 
-class ThirdBox extends Component {
+class ProjectOne extends Component {
     render() {
         return (
-            <div className="thirdBoxID">
+            <div className="projectOneId">
 
             </div>
         );
     }
 }
-export default ThirdBox;
+
+export default ProjectOne;

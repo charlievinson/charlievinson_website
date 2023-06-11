@@ -1,13 +1,13 @@
 import React, { Component } from "react";
 
-class Box extends Component {
+class BarBottomBorder extends Component {
     render() {
         return (
-            <div className="boxID">
+            <div className="barBottomBorderId">
                 
             </div>
         );
     }
 }
 
-export default Box;
+export default BarBottomBorder;

@@ -9,10 +9,11 @@ class ProjectThree extends Component {
             <div className="projectsDisplayContainerFlex">
                 <ProjectThreeContainer />
                 <div className="projectThreeText">
-                <h3>Two Sum GUI | C++/CLI</h3>
-                <p>This simple application allows a user to enter a list of integers and a 
-                    target number. If two elements in the list sum to the target number, the
-                    indices of these elements are returned. Otherwise, zeros are returned.</p>
+                <h3>Grand Strand Systems Testing | Java</h3>
+                <p>Developed and tested a back-end mobile application for Grand
+                    Strand Systems that includes contact, task, appointment, and 
+                    service classes. JUnit tests verify that the software meets 
+                    the project requirements with coverage of over 80%.</p>
                 </div>
             </div>
         );

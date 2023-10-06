@@ -9,7 +9,7 @@ class ProjectTwo extends Component {
             <div className="projectsDisplayContainerFlex">
                 <ProjectTwoContainer />
                 <div className="projectTwoText">
-                <h3>Two Sum GUI | C++/CLI</h3>
+                <h3>Two Sum Interface | C++/CLI</h3>
                 <p>This simple application allows a user to enter a list of integers and a 
                     target number. If two elements in the list sum to the target number, the
                     indices of these elements are returned. Otherwise, zeros are returned.</p>

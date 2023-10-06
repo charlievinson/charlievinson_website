@@ -9,10 +9,10 @@ class ProjectOne extends Component {
             <div className="projectsDisplayContainerFlex">
                 <ProjectOneContainer />
                 <div className="projectOneText">
-                <h3>Two Sum GUI | C++/CLI</h3>
-                <p>This simple application allows a user to enter a list of integers and a 
-                    target number. If two elements in the list sum to the target number, the
-                    indices of these elements are returned. Otherwise, zeros are returned.</p>
+                <h3>3D Interactive Desktop Scene | C++ (OpenGL)</h3>
+                <p>This program uses OpenGL to create a 3D scene consisting of a desktop
+                     and some objects. Users navigate the scene using intuitive keyboard 
+                     and mouse controls.</p>
                 </div>
             </div>
         );

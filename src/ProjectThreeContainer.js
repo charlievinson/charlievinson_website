@@ -6,7 +6,7 @@ class ProjectThreeContainer extends Component {
         return (
             <div className="projectThreeContainer">
                 <div className="projectThree">
-                    <a href="http://www.github.com" target="_blank"><img src="TwoSumGUI4.png" alt="picture"></img></a>
+                    <a href="http://www.github.com" target="_blank"><img src="JUnitTesting3.png" alt="picture"></img></a>
                 </div>
             </div>
         );

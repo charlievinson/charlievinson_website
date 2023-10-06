@@ -16,7 +16,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items:center;
-    margin-top: -1vh;
+    margin-top: -2vh;
     margin-left: -0.5vw;
 }
 
@@ -50,10 +50,10 @@ p {
 }
 
 
-
 h4 {
     font-size: 1.25vw;
     line-height: 0.1vh;
+    font-weight: normal;
 }
 
 .nameBarFlex {
@@ -75,17 +75,17 @@ h4 {
 }
 
 .introductionContainer {
-    width: 100.25vw;
-    height: 76vh;
+    width: 100vw;
+    height: 100vh;
     background-color: rgb(212, 242, 255);
     margin-left: -0.5vw;
     margin-top: 0vh;
 }
 
 .textId {
+    font-weight: normal;
     font-size: 2vw;
     font-family: Caveat;
-    font-weight:bold;
     margin-left: 5vw;
     margin-top: 16.5vh;
     line-height: 1vh;
@@ -94,65 +94,103 @@ h4 {
 .textId h3 {
     padding-top: 5vh;
     font-size: 2.25vw;
+    font-size: 2.2vw;
+    font-weight: 500;
 }
 
-.projectsContainerId {
-    height: 70vh;
-    width: 100.25vw;
-    background-color: rgb(212, 242, 255);
-    margin-left: -0.5vw;
-}
-
-.projectsLabelFlex {
-    height: 8vh;
-    width: 100.25vw;
-    background-color: rgb(212, 242, 255);
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    font-size: 2vw;
-    font-family: Caveat;
-}
 
 .projectsDisplayContainerFlex {
     display: flex;
     flex-direction: row;
     height: 45vh;
-    width: 100.25vw;
+    width: 100vw;
     background-color: rgb(212, 242, 255);
     justify-content: space-around;
     align-items: center;
-    
+    padding-top: 7vh;
+    margin-left: -2vw;
+    padding-bottom:10vh;
 }
 
-.projectOneId {
-    height: 40vh;
-    width: 25vw;
-    background-color: black;
+.projectsDisplayContainerFlex h3 {
+    margin-top: 8vh;
+    font-size:2.75vh;
+    margin-left: -4vw;
 }
 
-.projectTwoId {
-    height: 40vh;
-    width: 25vw;
-    background-color: black;
+.projectsDisplayContainerFlex p {
+    font-size: 2vh;
+    margin-top: -2vh;
+    margin-left: -4vw;
 }
 
-.projectThreeId {
-    height: 40vh;
-    width: 25vw;
-    background-color: black;
+.projectOneContainer {
+    height: 54vh;
+    width: 24vw;
+    font-family: Caveat;
+    margin-left: -5vw;
 }
 
-.arrowsFlex h4 {
-    font-size: 2vw;
+.projectOneText {
+    margin-top: -35vh;
+    margin-left: -25vw;
+    font-family: sans-serif;
 }
 
-.arrowsFlex {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 86vw;
-    margin-left: 7vw;
-    margin-right: 7vw;
+.projectTwoContainer {
+    height: 54vh;
+    width: 24vw;
+    font-family: Caveat;
+    margin-left: -5vw;
+    margin-top: -40vh;
 }
+
+.projectTwoText {
+    margin-top: -75vh;
+    margin-left: -25vw;
+    font-family: sans-serif;
+}
+
+.projectThreeContainer {
+    height: 54vh;
+    width: 24vw;
+    font-family: Caveat;
+    margin-left: -5vw;
+    margin-top: -80vh;
+}
+
+.projectThreeText {
+    margin-top: -115vh;
+    margin-left: -25vw;
+    font-family: sans-serif;
+}
+
+.projectFourContainer {
+    height: 54vh;
+    width: 24vw;
+    font-family: Caveat;
+    margin-left: -5vw;
+    margin-top: -120vh;
+}
+
+.projectFourText {
+    margin-top: -155vh;
+    margin-left: -25vw;
+    font-family: sans-serif;
+}
+
+img {
+    width: 20vw;
+}
+
+.projectTwoContainer {
+    height: 54vh;
+    width: 24vw;
+}
+
+.projectThreeContainer {
+    height: 54vh;
+    width: 24vw;
+}
+
+

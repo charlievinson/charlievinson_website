@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import FullBar from "./FullBar.js";
 import Introduction from "./Introduction.js";
-import ProjectsContainer from "./ProjectsContainer.js";
+import ProjectsDisplayContainerFlex from "./ProjectsDisplayContainerFlex.js";
 
 
 class Main extends Component {
@@ -10,7 +10,6 @@ class Main extends Component {
                 <div className="containerFlex">
                     <FullBar />
                     <Introduction />
-                    <ProjectsContainer />
                 </div>
         );
     }

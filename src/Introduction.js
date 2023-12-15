@@ -7,12 +7,16 @@ import BrickSmash from "./projects/BrickSmash.js";
 import SysTecSmartThermostat from "./projects/SysTecSmartThermostat.js";
 import DiceGameSimulator from "./projects/DiceGameSimulator.js";
 import ABCUniversityCourseProgram from "./projects/ABCUniversityCourseProgram.js";
+import InventoryAndroidApp from "./projects/InventoryAndroidApp.js";
+import GraziosoSalvareDashboard from "./projects/GraziosoSalvareDashboard.js";
 
 class Introduction extends Component {
     render() {
         return (
             <div className="introductionContainer">
                 <Text />
+                <GraziosoSalvareDashboard />
+                <InventoryAndroidApp />
                 <SysTecSmartThermostat />
                 <InteractiveScene />
                 <DiceGameSimulator />

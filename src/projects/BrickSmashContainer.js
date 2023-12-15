@@ -5,7 +5,7 @@ class BrickSmashContainer extends Component {
         return (
             <div className="brickSmashContainer">
                 <div className="brickSmash">
-                    <a href="http://www.github.com" target="_blank"><img src="BrickSmash3.png" alt="picture"></img></a>
+                    <a href="http://www.github.com" target="_blank"><img src="BrickSmash5.png" alt="picture"></img></a>
                 </div>
             </div>
         );

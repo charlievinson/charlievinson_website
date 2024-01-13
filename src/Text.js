@@ -10,9 +10,9 @@ class Text extends Component {
                 <h3>Education</h3>
                 <h4>B.S. Computer Science</h4>
                 <h4>Southern New Hampshire University | Manchester, NH</h4>
-                <h4>2021-2024 | GPA 3.95</h4>
+                <h4>2021-2024 | GPA 3.92</h4>
                 <h3>Skills</h3>
-                <h4>Python, C++, Java, HTML, CSS, JavaScript, SQL</h4>
+                <h4>Python, C++, Java, SQL, R, HTML, CSS, JavaScript</h4>
                 <h3>Projects</h3>
                 </div>
         );

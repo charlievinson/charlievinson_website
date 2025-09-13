@@ -4,7 +4,7 @@ class Text extends Component {
     render() {
         return (
             <div className="textId">
-                <h2>Hello.</h2>
+                <h2>Hello!</h2>
                 <p>I develop creative web applications and software solutions with a unique perspective, a passion
                     for solving complex problems, and a strong desire to continue learning.</p>
                 <h3>Education</h3>

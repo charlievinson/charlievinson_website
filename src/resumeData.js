@@ -4,7 +4,7 @@ const resume = {
   email: "vnsn.cs@gmail.com",
   phone: "(480) 955-7263",
   github: "https://github.com/charlievinson",
-  linkedin: "https://linkedin.com/in/charlievinson",
+  linkedin: "https://linkedin.com/in/charlie-vinson-13337b255",
   summary: "Recent Computer Science graduate with proven problem-solving ability and 10 years of professional experience working with teams. Adaptable, resourceful, and motivated to contribute innovative solutions.",
   skills: ["C++", "Java", "JavaScript", "React", "Node.js", "Python", "R", "SQL", "Git"],
 

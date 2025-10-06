@@ -15,7 +15,9 @@ const resume = {
     start: "2021",
     end: "2024",
     gpa: "3.9 / 4.0",
-    coursework: ["Data Structures", "Algorithms", "Databases", "AI"],
+    coursework: ["Discrete Mathematics", "Statistical Analysis", "Software Testing", "Software Security", "Operating Platforms",
+      "Data Structures", "Algorithms", "Database Design", "Computational Graphics", "Embedded Systems", "Machine Learning",
+      "Mobile Application Development", "Client/Server Development", "Full-Stack Web Development"],
     honors: "President's List, Magna Cum Laude"
   }
 ],
@@ -30,58 +32,17 @@ const resume = {
 
   experience: [
     {
-      title: "Deli Cook",
-      company: "Albertson's Companies",
-      start: "Jan 2025",
-      end: "Sep 2025",
+      title: "",
+      company: "Albertson's Companies, Twin Peaks, Craft 64, Cornish Pasty Company",
+      start: "2014",
+      end: "2025",
       highlights: [
-        "Led an 8-person team and trained new hires.",
-        "Improved order workflow, reducing wait times by 20%.",
-        "Maintained >95% customer satisfaction."
-      ]
-    },
-    {
-      title: "Line Cook",
-      company: "Twin Peaks",
-      start: "May 2024",
-      end: "Feb 2025",
-      highlights: [
-        "Led an 8-person team and trained new hires.",
-        "Improved order workflow, reducing wait times by 20%.",
-        "Maintained >95% customer satisfaction."
-      ]
-    },
-    {
-      title: "Line Cook",
-      company: "Craft 64",
-      start: "Nov 2019",
-      end: "Mar 2020",
-      highlights: [
-        "Led an 8-person team and trained new hires.",
-        "Improved order workflow, reducing wait times by 20%.",
-        "Maintained >95% customer satisfaction."
-      ]
-    },
-    {
-      title: "Prep Cook",
-      company: "Cornish Pasty Company",
-      start: "Feb 2017",
-      end: "Nov 2019",
-      highlights: [
-        "Led an 8-person team and trained new hires.",
-        "Improved order workflow, reducing wait times by 20%.",
-        "Maintained >95% customer satisfaction."
-      ]
-    },
-        {
-      title: "Line Cook",
-      company: "Dilly's Deli",
-      start: "Feb 2015",
-      end: "Feb 2017",
-      highlights: [
-        "Led an 8-person team and trained new hires.",
-        "Improved order workflow, reducing wait times by 20%.",
-        "Maintained >95% customer satisfaction."
+        "Design and deliver small-scale software solutions that improve and optimize existing tools, increasing speed and scalability while reducing costs of production",
+        "Operate event-driven systems to understand user needs, respond to demand in real-time, and maintain a high standard of positive user experiences",
+        "Practice continuous improvement by incorporating observed data, feedback, and exploration into new assignments",
+        "Leverage technical expertise to decrease friction between operations and technology, bridging multiple teams to support business goals",
+        "Train new team members with diverse skill sets to deliver exceptional results while complying with technical requirements and operational constraints",
+        "Demonstrate creative problem-solving skills and ability to navigate a fast-paced, deadline driven environment"
       ]
     }
   ]

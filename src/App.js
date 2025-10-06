@@ -167,7 +167,7 @@ export default function App() {
   {resume.experience.map(e => (
     <div key={e.company} className="item">
       <div className="item__header">
-        <h3>{e.title} – {e.company}</h3>
+        <h3>{e.company}</h3>
         <span className="dates">{e.start} – {e.end}</span>
       </div>
       <ul className="bullets">

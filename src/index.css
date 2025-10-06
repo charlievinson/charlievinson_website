@@ -376,7 +376,7 @@ body {
 ---------------------------------------------*/
 .hero {
   text-align: center;
-  padding: 40px 20px 40px; /* reduced top padding */
+  padding: 40px 20px 40px; 
   background: #87ceeb; 
   border-bottom-left-radius: 40px;
   border-bottom-right-radius: 40px;
@@ -392,13 +392,13 @@ body {
   content: '';
   position: absolute;
   top: 30px;
-  left: -250px;
+  left: 320px;
   width: 120px;
   height: 70px;
   background: #fff;
   border-radius: 60% 60% 70% 70%;
   box-shadow: 60px 10px 0 #fff, 130px -5px 0 #fff, 200px 15px 0 #fff;
-  animation: clouds 60s linear infinite;
+  animation: clouds 180s linear infinite;
   opacity: 0.7;
 }
 
